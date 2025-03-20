@@ -64,7 +64,6 @@ Tasks are stored in a JSON file named `data_base.json` in the same directory as 
 - Task IDs are required for updating and deleting tasks.
 
 
-# project URL
-[https://github.com/marcosriani/trask-tracker/tree/main](https://roadmap.sh/projects/task-tracker)
+# project URL: https://roadmap.sh/projects/task-tracker
 
 
